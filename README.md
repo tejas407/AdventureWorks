@@ -37,20 +37,27 @@ This project involves developing an interactive Power BI dashboard for Adventure
 
 ## Screenshots 
 #### Executive Dashboard :
+`1` KPI Cards and Top Products section, along with the Revenue Trending
 ![KPI Cards and Top Products section, along with the Revenue Trending](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Executive%20Dashboard.png)
 
+`2` KPI Cards and Top Products section, along with the Revenue Trending with Slicer Panel
 ![KPI Cards and Top Products section, along with the Revenue Trending with Slicer Panel](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Executive%20Dashboard%20with%20Slicer%20Panel.png)
 
 #### Geographical Sales Map :
+`1` A Map Visualization with orders by continent for different regions
 ![A Map Visualization with orders by continent for different regions](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Map%20Visualization.png)
 
 #### Product Insights :
+`1` Product Detail showing view of the Gauge Visual and Line Chart for total product profit, Area Chart for Orders
 ![Product Detail showing view of the Gauge Visual and Line Chart for total product profit, Area Chart for Orders](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Product%20Detail.png)
 
+`2` Product Detail showing view of the Gauge Visual and Line Chart for total product profit with Adjusted Price of product, Area Chart for Profit
 ![Product Detail showing view of the Gauge Visual and Line Chart for total product profit with Adjusted Price 
 of product, Area Chart for Profit](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Product%20Detail%20Price%20Adjustment.png)
 
 #### Customer Analysis :
+`1` Customer Detail of the Top 100 Customers table by Revenue and a Pie Chart visualizing orders by income level and Occupation
 ![Customer Detail of the Top 100 Customers table by Revenue and a Pie Chart visualizing orders by income level and Occupation](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Customer%20Detail.png)
 
+`2` Customer Detail of the Top 100 Customers table by Revenue and a Pie Chart visualizing orders by High Income Level and Occupation
 ![Customer Detail of the Top 100 Customers table by Revenue and a Pie Chart visualizing orders by High Income Level and Occupation](https://github.com/tejas407/AdventureWorks/blob/main/AdventureWorks%20Images/Screenshots/Customer%20Detail%20High%20Income.png)
