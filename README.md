@@ -37,7 +37,7 @@ This project involves developing an interactive Power BI dashboard for Adventure
 
 ## Screenshots 
 #### Executive Dashboard :
-![KPI Cards and Top Products section, along with the Revenue Trending](https://github.com/tejas407/AdventureWorksImages/Screenshots/ExecutiveDashboard.png)
+![KPI Cards and Top Products section, along with the Revenue Trending](https://github.com/tejas407/AdventureWorks Images/Screenshots/Executive Dashboard.png)
 
 ![Screenshot of the dashboard]()
 
